@@ -1,4 +1,5 @@
-#include <stdio>
+
+#include <stdio.h>
  /* I am a comment */
  int main() {
     printf("Hello world\n");
